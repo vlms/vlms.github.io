@@ -1,0 +1,39 @@
+html {
+    font-size: 130%;
+    font-family: 'Ledger', serif;
+}
+
+h1 {
+    font-size: 180%;
+    text-align: center;
+}
+
+p, li {
+    font-size: 100%;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: #2FA22F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #2FA22F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
